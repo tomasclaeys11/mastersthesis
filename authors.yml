@@ -3,24 +3,24 @@ project:
   
   authors:
     - id: student
-      name: student without a name yet
+      name: Tomas Claeys
       affiliations:
-        - tud
+        - Ugent
 
   contributors:
     - id: supervisor-1
-      name: prof. dr. John Doe
+      name: drs. ir. Param Naik
       affiliations:
-        - tud
+        - ugent
     - id: committee-1
-      name: Prof. Dr. C. Examiner
+      name: Prof. Dr. Jeroen Lauwaert
       affiliations:
-        - tud
+        - ugent
     - id: committee-2
-      name: Dr. D. Examiner
+      name: Prof. Dr. An Verberckmoes
       affiliations:
-        - tud
+        - ugent
 
   affiliations:
-    - id: tud
-      institution: Delft University of Technology
+    - id: ugent
+      institution: Ghent University
