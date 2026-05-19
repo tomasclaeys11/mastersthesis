@@ -7,7 +7,7 @@ project:
 
   github: https://tomasclaeys11.github.io/mastersthesis/ # change this to your own repository
   date: 2026-09-07
-  thumbnail: style/thumbnail.jpg
+  thumbnail: style/MgCuCoNiZn_216_unrelaxed.png
   numbering: 
     title: true
   # specify authors in authors.yml file
